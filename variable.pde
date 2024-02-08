@@ -25,7 +25,7 @@ void variable (){
       //θ4 += 10;
        y1 -= 4;
     }else if (y1 == 200){
-      x1 = 399;
+      x1 = -399;
     }
    }else if (400<=x1){
    power = -1;
